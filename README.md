@@ -33,7 +33,8 @@ Sales Overview
 ![sales](https://user-images.githubusercontent.com/128556308/232615999-69a0063d-c8d2-464b-bd96-80913ba5117b.PNG)
 
 Territory Details
-![territory](https://user-images.githubusercontent.com/128556308/232616070-c6fd05d6-ed0e-4bac-bd02-c58fa145d0ca.PNG)
+![territory](https://user-images.githubusercontent.com/128556308/232616823-79f794c7-1453-4c28-b3b4-7da04c7d68e8.PNG)
+
 
 Product Details 
 ![product](https://user-images.githubusercontent.com/128556308/232616120-db84b556-d104-452d-9d20-519d16a1be78.PNG)
